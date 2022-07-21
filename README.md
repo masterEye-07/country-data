@@ -1,0 +1,2 @@
+# Country_Data
+Country data, is a file which will help you in multiple projects where country data is needed like name and time-zone. This file is generated in .js therefore you can easily use this file in any .js framework.
