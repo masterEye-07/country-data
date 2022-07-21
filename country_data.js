@@ -1,7 +1,7 @@
 
 
 const countries = [
-    { value: 'afganistan', display: 'Afghanistan', timezone: 4.3 },
+    { value: 'afghanistan', display: 'Afghanistan', timezone: 4.3 },
     { value: 'albania', display: 'Albania', timezone: 2 },
     { value: 'algeria', display: 'Algeria', timezone: 2 },
     { value: 'american_samoa', display: 'American Samoa', timezone: -11 },
