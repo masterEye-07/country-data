@@ -165,7 +165,7 @@ const countries = [
     },
     { value: 'norway', display: 'Norway', timezone: 1 },
     { value: 'oman', display: 'Oman', timezone: 4 },
-    { value: 'pakistan', display: 'Pakistan', timezone: 5 },
+    { value: 'pakistan', display: 'Pakistan', timezone: 5 , countryCode: +92 },
     { value: 'panama', display: 'Panama', timezone: -5 },
     {
         value: 'papua_new_guinea',
