@@ -179,7 +179,7 @@ const countries = [
     { value: 'portugal', display: 'Portugal', timezone: 0 },
     { value: 'puerto_rico', display: 'Puerto Rico', timezone: -4 },
     { value: 'qatar', display: 'Qatar', timezone: 3 },
-    { value: 'reunion', display: 'Reunion', timezone: 4 },
+    { value: 'reunion_islands', display: 'Reunion Islands', timezone: 4 },
     { value: 'russia', display: 'Russia', timezone: 0 },
     { value: 'rwanda', display: 'Rwanda', timezone: 2 },
     { value: 'samoa', display: 'Samoa', timezone: 13 },
